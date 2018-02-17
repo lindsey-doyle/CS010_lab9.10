@@ -5,4 +5,3 @@ A contact list is a place where you can store a specific contact with other asso
 
 For full credit, define and use a function: string GetPhoneNumber(const vector<string> &nameVec, const vector<string> &phoneNumberVec, string contactName). The return value of GetPhoneNumber is the phone number associated with the specific contact name.
 
-Hint: Use two vectors: One for the string names, and the other for the string phone numbers.
